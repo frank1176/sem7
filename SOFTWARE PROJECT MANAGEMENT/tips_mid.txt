@@ -3,22 +3,30 @@ A case study scenario given to answer Q1&Q2
 Q1 25 marks 
 A)drawing /calculation, provides comments on calculated result
 
-B)Project ....  failure  (Chapter1 1.5)  project failure vs business failure
+NPV.ROI,
+
+B)Project ....  failure  (Chapter1 1.5)  project failure vs business failure causes
 
 c)Theory . Propose 1 suitable software process models applied in the case study, explain.
 
 Q2 25marks
-A)Calculation, provide comments on calculated result      Earn value something need formula
+A)Calculation, provide comments on calculated result      Earn value something need formula Earned Value (EV)
 
 B) Theory . Human resouces     applied in the case study
 plan HR management orgranization structure of managing project
+
 Team development model
 
 care stakeholder
 
 
 C) knowledge areas & processes   applied in the case study
+
+
+C1 Knowledge of a Project Manager
+Ten Knowledge Areas
  2 of them over 5   scope, schedule, cost,risk or quality
 
 
 procurment no need 
+communicate
