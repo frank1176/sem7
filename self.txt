@@ -1,5 +1,26 @@
 rice bowl
 
-I like doing backend jobs, I am familiar with Python Django Framework, and a little bit of Angular JS Framework. I like to prepare the data needed to cooperate with the front end, and fix bugs.	
+I like doing backend jobs, I am familiar with Python Django Framework, and a little bit of Angular JS Framework. I like to prepare the data needed to cooperate with the front end, and fix bugs. I am willing to accept new challenges.
 
 I am currently studying in TARUMT Year 3, I seeking an internship or full-time job, my internship starts in November 2023 until 2024. (6 months) After the internship direct graduate so I i hope can find a company that can provide a full-time job opportunity.
+
+
+
+backend side things
+
+token 
+authentication 
+prepare data communicate with frontend
+validate the output data
+PostgressSQL
+
+
+mqtt
+SMTP
+-backend side
+creating a functional CRUD combined with a front-end 
+Fixing bugs。
+
+frontend side
+HTML CSS Javascript
+more on show data 
